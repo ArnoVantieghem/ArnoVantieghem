@@ -2,7 +2,6 @@
 - 👀 I’m interested in Object-Oriented programming and Web-Development
 - 🌱 I’m currently learning C# and Javascript
 - 💞️ I’m not currently looking to collaborate
-- 📫 How to reach me Discord:Arno#0440
 
 <!---
 ArnoVantieghem/ArnoVantieghem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
